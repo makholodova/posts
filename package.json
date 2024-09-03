@@ -13,10 +13,10 @@
     "@headlessui/vue": "^1.7.22",
     "@heroicons/vue": "^2.1.5",
     "nuxt": "^3.13.0",
-    "vue": "latest"
+    "vue": "^3.4.38",
+    "pinia": "^2.2.2"
   },
   "devDependencies": {
-    "@nuxt/types": "^2.18.1",
     "@types/node": "^22.5.2",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.44",
